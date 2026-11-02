@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-labelledby="t d">
+  <title id="t">Brujos</title>
+  <desc id="d">Ilustración original de un grimorio abierto dentro de un círculo ritual, bajo una luna violeta.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#171126"/><stop offset="1" stop-color="#07060d"/></linearGradient>
+    <radialGradient id="violet" cx="50%" cy="42%" r="55%"><stop offset="0" stop-color="#8057a8" stop-opacity=".55"/><stop offset="1" stop-color="#8057a8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="book" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4b345e"/><stop offset="1" stop-color="#1b1428"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="13"/></filter>
+  </defs>
+  <rect width="640" height="800" fill="url(#bg)"/>
+  <circle cx="320" cy="315" r="260" fill="url(#violet)" filter="url(#blur)"/>
+  <circle cx="320" cy="236" r="92" fill="#b9a7d0" opacity=".84"/>
+  <circle cx="352" cy="212" r="84" fill="#171126"/>
+  <g fill="#08070d">
+    <path d="M82 800 L82 330 Q100 225 190 205 L190 800 Z"/>
+    <path d="M450 800 L450 205 Q540 225 558 330 L558 800 Z"/>
+    <path d="M132 800 L132 360 Q160 260 240 250 L240 800 Z" opacity=".65"/>
+    <path d="M400 800 L400 250 Q480 260 508 360 L508 800 Z" opacity=".65"/>
+  </g>
+  <g fill="none" stroke="#9874bd" stroke-width="3" opacity=".62">
+    <circle cx="320" cy="490" r="178"/>
+    <circle cx="320" cy="490" r="145" stroke-dasharray="7 12"/>
+    <path d="M320 300 L352 444 L500 490 L352 536 L320 680 L288 536 L140 490 L288 444 Z"/>
+  </g>
+  <g fill="#c9a45c" opacity=".75">
+    <circle cx="320" cy="312" r="5"/><circle cx="498" cy="490" r="5"/>
+    <circle cx="320" cy="668" r="5"/><circle cx="142" cy="490" r="5"/>
+  </g>
+  <g>
+    <path d="M178 635 Q250 565 320 620 Q390 565 462 635 L450 700 Q384 666 320 716 Q256 666 190 700 Z" fill="url(#book)" stroke="#b08bd2" stroke-width="3"/>
+    <path d="M320 620 L320 712" stroke="#d4bfdf" stroke-width="3"/>
+    <path d="M205 651 Q258 620 300 646 M205 675 Q258 644 300 670 M340 646 Q382 620 435 651 M340 670 Q382 644 435 675" fill="none" stroke="#d8c7e7" stroke-width="2" opacity=".72"/>
+    <path d="M320 645 C294 620 290 590 320 575 C350 590 346 620 320 645 Z" fill="#9d78c7" stroke="#d5b7ef" stroke-width="2"/>
+  </g>
+  <g fill="#0a0810">
+    <path d="M320 370 L270 450 L280 540 L360 540 L370 450 Z"/>
+    <path d="M270 450 Q320 385 370 450 L350 476 Q320 452 290 476 Z"/>
+    <path d="M274 465 L236 535 L254 548 L300 490 Z"/>
+    <path d="M366 465 L404 535 L386 548 L340 490 Z"/>
+  </g>
+  <g fill="none" stroke="#b28bd4" stroke-width="3" opacity=".82">
+    <path d="M320 392 L320 555"/>
+    <path d="M292 430 L348 430 M290 462 L350 462"/>
+    <path d="M300 512 Q320 530 340 512"/>
+  </g>
+  <g fill="#d7c5e8">
+    <circle cx="260" cy="375" r="4"/><circle cx="380" cy="375" r="4"/>
+    <circle cx="320" cy="350" r="5"/>
+  </g>
+  <g fill="#9d78c7" opacity=".6">
+    <circle cx="210" cy="330" r="8"/><circle cx="430" cy="345" r="6"/>
+    <circle cx="160" cy="550" r="5"/><circle cx="480" cy="560" r="7"/>
+  </g>
+  <rect width="640" height="800" fill="none" stroke="#3a2b46" stroke-width="2"/>
+</svg>

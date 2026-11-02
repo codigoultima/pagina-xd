@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
   <title id="title">Valle nocturno de SanguinarisMC</title>
-  <desc id="desc">Ilustración original de un valle gótico bajo la luna, con un castillo lejano, pinos, niebla y tres siluetas.</desc>
+  <desc id="desc">Ilustración original de un valle gótico bajo la luna, con un castillo lejano, pinos, niebla y cuatro siluetas que representan las facciones.</desc>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#04060c"/>
@@ -116,6 +116,19 @@
     <path d="M866 816 L914 816 L922 880 L858 880 Z" opacity="0.82"/>
   </g>
 
+  <g fill="#05080d">
+    <path d="M956 790 L970 790 L966 842 L960 842 Z"/>
+    <circle cx="963" cy="772" r="11"/>
+    <path d="M946 785 Q963 764 980 785 L994 845 L934 845 Z"/>
+    <path d="M934 845 L994 845 L1004 895 L924 895 Z" opacity="0.9"/>
+    <path d="M975 790 Q1000 770 1012 790 L1000 804 L976 810 Z"/>
+  </g>
+  <g stroke="#9d78c7" stroke-width="4" fill="none" opacity="0.9">
+    <path d="M1014 744 L1014 884"/>
+    <circle cx="1014" cy="736" r="12"/>
+    <path d="M1004 736 L1024 736 M1014 726 L1014 746"/>
+  </g>
+  <circle cx="1014" cy="736" r="23" fill="#8d62bb" opacity="0.16"/>
   <g fill="#c9a45c">
     <circle cx="890" cy="786" r="4" opacity="0.95"/>
     <circle cx="890" cy="786" r="14" fill="#e9b96e" opacity="0.18"/>
